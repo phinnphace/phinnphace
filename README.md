@@ -12,6 +12,7 @@ An interactive dashboard built on a novel conceptual framework with original sco
 An in-progress project testing GEMMA4eb for ASL readability
 
 I am still here because science is bigger than the fear that aims to silence it. The work I do — and want to do — lives in curiosity, care, and tedium. The ups and downs are part of it. I question assumptions: mine and yours. The foundational ones. Because that is where real work begins. Let's do good work together.
--->
+
 https://wwww.dataacorns.com
 https://tinyurl.com/MappingFood
+-->
